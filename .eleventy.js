@@ -14,8 +14,8 @@ console.log('pathPrefix is set to ...', pathPrefix);
 // see "eleventyConfig.addGlobalData("site", globalData);"" below
 // related: https://github.com/11ty/eleventy/issues/1641
 const globalSiteData = {
-  title: "DreamBit @ Munro",
-  description: "DreamBit T/A Munro Consulting",
+  title: "DreamBit",
+  description: "DreamBit s.r.o.",
   locale: 'en',
   baseUrl: baseUrl,
   pathPrefix: pathPrefix,

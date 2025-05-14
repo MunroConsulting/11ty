@@ -8,9 +8,10 @@ eleventyNavigation:
 <div class="row align-items-md-stretch">
   <div class="col-md-6 mt-3">
     <div class="h-100 p-5 text-white bg-dark rounded-3">
-      <img src ="/assets/images/mc_m_logo.png" alt="...">
+      <img src ="/assets/images/dreambit-icon-circle.png" width="250px" alt="...">
+      <p></p>
       <p>
-        Established in 2017 in the UK as an independent consultancy. Clients range from multinational biochemical firms to family run residential care homes. Relocated to Slovakia in 2023.
+        Established in 2017 in the UK as Munro Consulting, an independent consultancy. Clients range from multinational biochemical firms to family run residential care homes. Relocated to Slovakia in 2023 and rebranded as DreamBit s.r.o.
       </p>
       <!-- <a href="{{ '/pages/contact' | url }}" class="btn btn-outline-light">Contact Us</a> -->
     </div>
